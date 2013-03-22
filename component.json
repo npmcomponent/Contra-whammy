@@ -1,0 +1,8 @@
+{
+  "name": "whammy",
+  "version": "0.0.1",
+  "main": "whammy.js",
+  "scripts": [
+    "whammy.js"
+  ]
+}
